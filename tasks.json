@@ -1,0 +1,36 @@
+{
+    "chinmay": [
+        {
+            "task_id": 1,
+            "description": "Pay electricity bill",
+            "status": "Completed"
+        },
+        {
+            "task_id": 2,
+            "description": "buy vegetables",
+            "status": "Pending"
+        },
+        {
+            "task_id": 3,
+            "description": "attend meeting at evening",
+            "status": "Pending"
+        },
+        {
+            "task_id": 4,
+            "description": "buy grocery",
+            "status": "Pending"
+        }
+    ],
+    "user1": [
+        {
+            "task_id": 1,
+            "description": "Complete Python Project",
+            "status": "Completed"
+        },
+        {
+            "task_id": 2,
+            "description": "Attend meeting at evening",
+            "status": "Pending"
+        }
+    ]
+}
